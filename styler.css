@@ -44,7 +44,7 @@ body {
   .right-panel {
     width: 60%;
     padding: 40px;
-    text-align:center;
+    text-align: center;
   }
 
   .right-panel h2 {
@@ -52,7 +52,7 @@ body {
     margin-bottom: 20px;
     font-size: 24px;
     color: #333;
-    text-align: center;
+    text-align:center;
   }
 
   .form-group {
@@ -76,7 +76,7 @@ body {
   }
 
   .submit-btn {
-    width: 100%;
+    width: 30%;
     padding: 10px;
     font-size: 16px;
     background-color: #5a3e2b;
